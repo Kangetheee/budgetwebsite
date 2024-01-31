@@ -34,3 +34,10 @@ The website is deployed using platforms like Heroku, AWS, or others. Tools like 
 
 Version Control: 
 Git is likely used for version control, facilitating collaboration among developers and allowing for efficient tracking of changes in the codebase.
+
+
+
+Resources
+-postgresql
+-psycopg2
+
