@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'postgres',
         'USER': 'postgres',
-        'PASSWORD': '2003',
+        'PASSWORD': '****',
         'HOST': 'localhost',
         'PORT': '',
     }
@@ -140,7 +140,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'trulyinsanenoah@gmail.com'  # Replace with your Gmail email address
-EMAIL_HOST_PASSWORD = 'orrlwpllybrgwdiw'  # Replace with your Gmail password or app password
+EMAIL_HOST_USER = 'test@gmail.com'  # Replace with your Gmail email address
+EMAIL_HOST_PASSWORD = '***********'  # Replace with your Gmail password or app password
 
 PASSWORD_RESET_TIMEOUT = 14400
